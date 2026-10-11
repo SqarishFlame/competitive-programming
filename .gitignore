@@ -1,0 +1,10 @@
+# Compiled binaries
+a.out
+*.out
+*.o
+*.exe
+
+# Editor / OS junk
+.DS_Store
+*.swp
+.vscode/
